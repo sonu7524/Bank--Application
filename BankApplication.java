@@ -2,7 +2,7 @@ import java.io.*;
 import java.text.*;
 import java.util.*;
 import java.lang.*;
-public class ATM {
+public class BankApplication {
 
 	public static void main(String[] args) throws IOException {
 		OptionMenu optionMenu = new OptionMenu();
